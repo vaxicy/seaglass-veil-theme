@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Seaglass Veil Theme",
+  "version": "1.0.0",
+  "description": "A calm aqua Chrome theme in a single seaglass value ladder — pale frosted teal over deep water.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [47, 107, 102],
+      "frame_inactive":               [40, 92, 88],
+      "toolbar":                      [56, 115, 110],
+      "tab_text":                     [231, 245, 244],
+      "bookmark_text":                [231, 245, 244],
+      "ntp_background":               [231, 245, 244],
+      "ntp_text":                     [31, 74, 71],
+      "ntp_link":                     [47, 107, 102],
+      "ntp_header":                   [208, 235, 233],
+      "button_background":            [208, 235, 233],
+      "button_background_secondary":  [185, 226, 222],
+      "omnibox_background":           [247, 252, 251],
+      "toolbar_button_icon":          [231, 245, 244]
+    },
+    "properties": {
+      "ntp_button_background":    [139, 207, 200],
+      "ntp_button_hover":         [125, 190, 183],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
